@@ -12,3 +12,6 @@ python: 3.10
 
 `python main.py`
 
+# 结果
+
+生成的问答数据存储在qa.txt文件内
